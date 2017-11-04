@@ -1,0 +1,25 @@
+.settings-row {
+  border-bottom: 2px #eee solid;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+.settings-row {
+  margin-bottom: 3px;
+  font-size: 16px;
+}
+
+.settings-row p {
+  color: #999;
+}
+
+@media(min-width: 480px) {
+  .small-input {
+    width: 80px;
+  }
+}
+
+.content-inner form button {
+  margin: 10px 10px;
+}

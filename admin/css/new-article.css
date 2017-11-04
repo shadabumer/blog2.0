@@ -1,0 +1,11 @@
+.form-wrapper {
+  background: #eee;
+  padding: 20px;
+}
+
+.note-editable {
+  background: #fff;
+}
+.chosen-container, .chosen-container-multi {
+  width: 100% !important;
+}
